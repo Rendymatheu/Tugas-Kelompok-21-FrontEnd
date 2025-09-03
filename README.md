@@ -1,1 +1,6 @@
-# Tugas-Kelompok-21-FrontEnd
+TUGAS KELOMPOK 21 FRONTEND PROGRAMMING
+
+NAMA : Rendy Matheu
+NIM : 535240129
+NAMA : Muhammad satria rizky
+NIM : 535240002
