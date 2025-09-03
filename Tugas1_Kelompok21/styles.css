@@ -14,7 +14,6 @@ body {
     padding: 20px;
 }
 
-/* Wrapper untuk membungkus form + side box */
 .wrapper {
     display: flex;
     justify-content: center;
